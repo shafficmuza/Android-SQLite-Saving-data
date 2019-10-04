@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PesaZako</string>
+    <string name="title_activity_send_money">Send Money</string>
+</resources>
